@@ -9,11 +9,9 @@ We utilized single-cell RNA sequencing (scRNA-seq) to investigate clots in strok
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Reproducibility repository accompanying Renedo, et al. " Single-cell Immune Landscape of Human Clots ".
 
 ## Getting Started
-
-Reproducibility repository accompanying Renedo, et al. " Single-cell Immune Landscape of Human Clots ".
 
 You will find R and python scripts to download data and reproduce the analyses in the "code" folder.
 
@@ -24,4 +22,5 @@ Processed data is available for viewing and exploration on the publicly accessib
 Raw sequencing data are available at the NCBI Gene Expression Omnibus (accession number ). 
 
 
-This repository is a work-in-progress and will be updated frequently
+
+This repository is a work in progress and will be updated frequently
